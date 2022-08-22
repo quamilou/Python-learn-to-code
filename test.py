@@ -1,0 +1,3 @@
+nom = "Quentin"
+
+print(nom)
