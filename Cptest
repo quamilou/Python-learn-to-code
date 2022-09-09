@@ -1,0 +1,21 @@
+#-------------------------------------------------------------------------------
+# Name:        test
+# Purpose:
+#
+# Author:      quesae
+#
+# Created:     09/09/2022
+# Copyright:   (c) quesae 2022
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
+
+author = "quesae"
+ident = input("Entre Prenom : ")
+nom = ""
+if len(ident) >= 3 :
+    slice = slice(0, 2)
+    print("OS"+str(ident)+ print(nom = input("Entre Nom : ")))
+elif int(ident) == 13086 :
+    print("admin"+ input("Entre password :"))
+else :
+    print("ERROR")
